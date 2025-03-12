@@ -1,8 +1,9 @@
-# Azure: Adventure Works Big Data Analytics
+# Azure Big Data Analytics: Analyzing AdventureWorks Data Insights
 
-## Languages:
+## Languages and Tools:
 - **Python**
 - **SQL**
+- **PowerBI**
 
 ## Important Libraries:
 - **PySpark**
@@ -75,13 +76,7 @@ The project successfully integrates several **Azure services** to perform **Big 
 - Efficient **data transformation** with **Apache Spark** in **Azure Databricks**.
 - Implementing a **data warehousing solution** using **Azure Synapse Analytics**.
 - **Power BI dashboards** for dynamic, actionable business insights.
-
 This framework demonstrates how **Azure's cloud platform** can be used for large-scale data analytics, real-time processing, and visualization.
-
-## Future Work
-- Improve data pipeline efficiency with enhanced scheduling and monitoring in **Azure Data Factory**.
-- Expand **Power BI** reports to include additional business metrics and KPIs.
-- Integrate machine learning models for predictive analytics on the dataset.
 
 ## Disclaimer
 This project is designed for demonstration purposes, showcasing the integration of various **Azure technologies** for **big data analytics**.
