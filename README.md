@@ -4,8 +4,6 @@
 - **Python**
 - **SQL**
 - **PowerBI**
-
-## Important Libraries:
 - **PySpark**
 - **Azure Data Factory**
 - **Azure Databricks**
